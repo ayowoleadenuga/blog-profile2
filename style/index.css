@@ -38,15 +38,15 @@ div.image {
 }
 
 .section1 {
-    background: url(../image/monks.jpg);
+    background: url(https://images.unsplash.com/photo-1532001354439-7c91ecb8b4d4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ce17b8f452a33bd51472cf3363018c67&auto=format&fit=crop&w=500&q=60);
 }
 
 .section2 {
-    background: url(../image/wild.jpg);
+    background: url(https://images.unsplash.com/photo-1417721885406-d31aee8c2a79?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c7bea6ed278fec0b5d4a13090727074b&auto=format&fit=crop&w=500&q=60);
 }
 
 .section3 {
-    background: url(../image/fashion.jpg);
+    background: url(https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d6cde8cc87fc2947163be362be137b3d&auto=format&fit=crop&w=750&q=80);
 }
 
 div.text {
