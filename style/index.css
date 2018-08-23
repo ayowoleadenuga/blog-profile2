@@ -144,7 +144,7 @@ hr.explore-id {
 
 img#center-image {
     width: 9%;
-    height: 40px;
+    height: 44px;
     border-radius: 50% !important;
 }
 
@@ -181,6 +181,7 @@ hr#hr3 {
     .image-text,
     .star {
         font-size: 17px;
+        margin-bottom: 10px;
     }
     .section-row div.image {
         width: 144.59px;
