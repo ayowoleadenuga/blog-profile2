@@ -55,6 +55,8 @@ div.text {
     vertical-align: top;
     margin-left: 5%;
     margin-right: 5%;
+    transform: scale(0.8);
+    margin-top: -25px;
 }
 
 .footer img {
@@ -141,7 +143,8 @@ hr.explore-id {
 }
 
 img#center-image {
-    width: 6%;
+    width: 9%;
+    height: 40px;
     border-radius: 50% !important;
 }
 
@@ -180,8 +183,8 @@ hr#hr3 {
         font-size: 17px;
     }
     .section-row div.image {
-        width: 138.59px;
-        height: 191.19px;
+        width: 144.59px;
+        height: 146.19px;
     }
     .greater-than {
         font-size: 20px;
